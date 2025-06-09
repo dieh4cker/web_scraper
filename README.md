@@ -24,8 +24,8 @@ This tool is for educational purposes only. Before using this tool, please be aw
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/dieh4cker/web_scraper.git
+
 ```
 
 2. Install required dependencies:
